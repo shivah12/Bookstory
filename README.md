@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Bookstore-blue)
 
 # Bookstore
 
@@ -7,17 +6,7 @@
 
 <br/>
 
-# Mini Demo 
 
-![](./src/images/bookstore.gif)
-
-# Live Demo
-
-[Live Link](https://ans-bookstore.netlify.app/)
-
-<br/>
-
-Additional description about the project and its features.
 ## Built With
 
 - Major languages (JavaScript)
@@ -49,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 #### Clone this repository
 
 ```bash
-$ git clone git@github.com:AnselemOdims/Bookstore.git
+$ git clone link
 $ cd Bookstore
 ```
 #### Run project
@@ -61,20 +50,12 @@ $ npm start # this will open it in the browser and enable hot reloading
 
   <br>
 
-## Authors
-
-👤 **Anselem Odimegwu**
-
-- GitHub: [github](https://github.com/AnselemOdims)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anselem-odimegwu/)
-
-<br>
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AnselemOdims/Bookstore/issues).
+
 
 <br>
 
